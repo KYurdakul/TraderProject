@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TraderProject</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="button">TAMAM</string>
+    <string name="menkul">Menkul</string>
+    <string name="miktar_t2">Miktar T2</string>
+    <string name="fiyat">Fiyat</string>
+    <string name="tutar">Tutar</string>
+    <string name="toplam_tutar">Toplam Tutar:</string>
+</resources>
